@@ -87,7 +87,7 @@ This document provides comprehensive documentation for the Postman collection de
 ## Conclusion
 
 This documentation should provide a clear understanding of how to utilize the Postman collection for testing the ShopperStack e-commerce site.
-### Screenshots
+
 
 
 
