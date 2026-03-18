@@ -1,6 +1,7 @@
 ### Screenshots
 
-![Signup Screenshot](path/to/signup_screenshot.png)
+![Signup Screenshot](<img width="1920" height="1080" alt="signup" src="https://github.com/user-attachments/assets/6860bb27-9235-4cbb-96c5-e271d8444311" />
+)
 ![Login Screenshot](path/to/login_screenshot.png)
 ![Search Items Screenshot](path/to/search_items_screenshot.png)
 ![Add to Cart Screenshot](path/to/add_to_cart_screenshot.png)
